@@ -34,3 +34,6 @@ Main research topics include:
 - OS: Windows
 - IDE: Visual Studio 2022
 - Communication: Named Pipe IPC
+
+
+<img width="645" height="312" alt="image" src="https://github.com/user-attachments/assets/b87b0bee-8aff-4749-9d54-8fd117bc33bd" />
