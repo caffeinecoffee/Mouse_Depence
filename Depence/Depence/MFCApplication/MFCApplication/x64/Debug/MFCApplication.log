@@ -1,0 +1,22 @@
+﻿  Defender.cpp
+C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.h(45,10): error C2535: 'bool CDefenderDlg::IsCapturing(void) const': 멤버 함수를 이미 정의했거나 선언했습니다.
+  (소스 파일 '/Defender.cpp'을(를) 컴파일하는 중)
+      C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.h(38,10):
+      'CDefenderDlg::IsCapturing' 선언을 참조하십시오.
+  
+  DefenderDlg.cpp
+C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.h(45,10): error C2535: 'bool CDefenderDlg::IsCapturing(void) const': 멤버 함수를 이미 정의했거나 선언했습니다.
+  (소스 파일 '/DefenderDlg.cpp'을(를) 컴파일하는 중)
+      C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.h(38,10):
+      'CDefenderDlg::IsCapturing' 선언을 참조하십시오.
+  
+C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.cpp(286,26): error C3861: 'SampleDonut': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/DefenderDlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.cpp(287,18): error C3861: 'FarFromClick': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/DefenderDlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\yink1\Desktop\Depence\Depence\MFCApplication\DefenderDlg.cpp(288,18): error C3861: 'FarFromExistingFake': 식별자를 찾을 수 없습니다.
+  (소스 파일 '/DefenderDlg.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
